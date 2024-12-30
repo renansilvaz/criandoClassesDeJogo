@@ -45,4 +45,6 @@ switch(tipo){
             player4.ataque = "Shuriken"
             player4.atacar()
         break
+    default:
+        alert("Selecione um opção válida, utilizando o número da alternativa!")
 }
